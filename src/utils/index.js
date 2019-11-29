@@ -1,0 +1,1 @@
+export const createHslString = ( color ) => `hsl(${color}, 100%, 50%)`
