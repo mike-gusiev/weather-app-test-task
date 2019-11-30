@@ -1,4 +1,4 @@
-
+![](screen.gif)
 
 **Weather app to get info about weather in the nearest region**
 
